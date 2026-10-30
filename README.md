@@ -1,12 +1,11 @@
 # Jesus Is The Light
 
-A simple, mobile-friendly web page designed to accompany the comic story **"Jesus, The Light of the World"**.
+A comic-based Christian outreach project that combines storytelling, a print-ready QR code poster, a Roblox experience, and video content.
 
-The project is intended to be accessed through a QR code, allowing children, families, and Pathfinder clubs to quickly discover additional content related to the story.
+![Printable Poster](To%20print.jpeg)
 
-## Live Website
+🌐 Live Website: https://sopzak.github.io/jesus-is-the-light/
 
-🌐 https://sopzak.github.io/jesus-is-the-light/
 
 ---
 
@@ -52,6 +51,32 @@ Watch videos on:
 https://www.youtube.com/@mylifeisajourneyofficial
 
 ---
+## Printable Poster
+
+A print-ready version of the project is included in the repository.
+
+File:
+
+```text
+To print.jpeg
+```
+
+The poster contains a QR code that directs visitors to the online experience:
+
+🌐 https://sopzak.github.io/jesus-is-the-light/
+
+This file may be used for:
+
+- Church events
+- Pathfinder activities
+- Children's ministries
+- Community outreach programs
+- Educational displays
+- Printed handouts and posters
+
+Visitors can simply scan the QR code to access the comic page, Roblox experience, and YouTube channel.
+
+---
 
 ## Project Structure
 
@@ -60,9 +85,28 @@ jesus-is-the-light/
 │
 ├── index.html
 ├── comic.jpg
+├── To print.jpeg
 ├── BlueRobloxLogo.webp
 └── README.md
 ```
+
+---
+
+## Downloads
+
+### Online Experience
+
+https://sopzak.github.io/jesus-is-the-light/
+
+### Print-Ready Poster
+
+Download:
+
+```text
+To print.jpeg
+```
+
+The poster includes a QR code that links directly to the online experience and is ready for printing and distribution.
 
 ---
 
@@ -70,14 +114,18 @@ jesus-is-the-light/
 
 The purpose of this project is to provide an engaging digital extension to the comic story, helping young readers continue their journey through interactive and educational content.
 
-Visitors can:
+Participants can:
 
 - Read the comic story
+- Scan a QR code from the printed poster
 - Explore Advent City in Roblox
 - Watch related content on YouTube
-- Access all resources through a single QR code
+- Access all resources from a single landing page
+
+The printable poster allows churches, clubs, schools, and ministry leaders to easily share the experience in physical locations while connecting users to the digital content.
 
 ---
+
 
 ## Technologies Used
 
